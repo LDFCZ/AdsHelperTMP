@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/adshelper" />
+            <option value="$PROJECT_DIR$/adshelpertest" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
